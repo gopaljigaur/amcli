@@ -1,6 +1,6 @@
 {
   "name": "@gopaljigaur/amcli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Apple Messages CLI for macOS: read chats, search messages and send iMessage or SMS from the command line",
   "main": "lib/db.js",
   "bin": {
