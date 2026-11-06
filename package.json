@@ -1,6 +1,6 @@
 {
   "name": "@gopaljigaur/amcli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Apple Messages CLI for macOS: read chats, search messages and send iMessage or SMS from the command line",
   "main": "lib/db.js",
   "bin": {
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gopaljigaur/amcli"
+    "url": "git+https://github.com/gopaljigaur/amcli.git"
   },
   "author": "Gopalji Gaur <gopaljigaur@gmail.com>",
   "license": "MIT",
